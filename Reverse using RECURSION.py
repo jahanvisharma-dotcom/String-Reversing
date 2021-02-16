@@ -6,4 +6,4 @@ def reverse_string(j):
         return reverse_string(j[1:]) + j[0]
         
 input_string = 'JAHANVI'
-print("reverse of string using reverse is : ",reverse_string(input_string))
+print("reverse of string using recursion is : ",reverse_string(input_string))
