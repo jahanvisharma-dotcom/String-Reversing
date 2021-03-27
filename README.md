@@ -9,4 +9,4 @@ Different ways of reversing a string using python.
 5) REVERSE A STRING USING JOIN & REVERSED.
 6) REVERSE A STRING USING LIST REVERSE.
 
-...
+..
