@@ -8,3 +8,5 @@ Different ways of reversing a string using python.
 4) REVERSE A STRING USING RECURSION.
 5) REVERSE A STRING USING JOIN & REVERSED.
 6) REVERSE A STRING USING LIST REVERSE.
+
+......
